@@ -1,0 +1,10 @@
+/* custom styles */
+.cal-date {
+    width: 40%;
+}
+.dash-left {
+    float: left;
+}
+.dash-right {
+    float: right;
+}
